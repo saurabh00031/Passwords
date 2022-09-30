@@ -5,3 +5,11 @@
       "BasedOn":"Names",
       "Password":"[Enter the List]",
    },
+   
+      {
+      "id":3,
+      "difficulty":"hard",
+      "chractersUsed":"lowercase,uppercase,numbers,symbols",
+      "BasedOn":"mothername",
+      "Password":"[Enter the List]",
+   },
